@@ -1,0 +1,9 @@
+[2018-11-19 20:27:59] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Appzcoder\CrudGenerator\CrudGeneratorServiceProvider' not found' in /home/jonas_albuquerque/cadastro/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:208
+Stack trace:
+#0 {main}  
+[2018-11-19 20:42:08] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Appzcoder\CrudGenerator\CrudGeneratorServiceProvider' not found' in /home/jonas_albuquerque/cadastro/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:208
+Stack trace:
+#0 {main}  
+[2018-11-20 17:34:35] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Appzcoder\CrudGenerator\CrudGeneratorServiceProvider' not found' in /home/jonas_albuquerque/cadastro/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:208
+Stack trace:
+#0 {main}  
